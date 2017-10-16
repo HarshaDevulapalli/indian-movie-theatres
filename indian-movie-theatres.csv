@@ -1,4 +1,4 @@
-city,theatre_name,average_ticket_price,number_of_seats,number_of_screens,type,lat,lon,calculated_seats,calculated_ticket_price,calculated_screen_no,average_2,source,notes
+city,theatre_name,average_ticket_price,total_seats,no_screens,type,theatre_chain,lat,lon,calculated_seats,calculated_ticket_prices,calculated_screens,average_2,source_of_information,notes
 Ahmedabad,"AB Miniplex: Shivranjini Cross Road, Satellite",125.6190476,302,3,Multiplex,,23.02494,72.52938,302,118,3,124,BookMyShow,
 Ahmedabad,Amber Cinema: Ahmedabad,100.8333333,763,1,Single Screen,,23.03431,72.62002,763,80,1,98.75,BookMyShow,
 Ahmedabad,Anupam Cinema: Ahmedabad,125.8333333,781,1,Single Screen,,23.00656,72.61333,781,80,1,121.25,BookMyShow,
@@ -234,7 +234,6 @@ Chennai,Udhayam Complex,,759,1,Single Screen,,12.9596264,80.2433274,,,,,Internet
 Chennai,"Udhayam Theatre, Ashoknagar",,759,1,Single Screen,,13.0346888,80.2103968,,,,,MediaAnt,
 Chennai,Vetrrivel Theatre 2K - Nanganallur,,600,1,Single Screen,,12.9801087,80.1821216,,,,,Internet Research,
 Chennai,Woodlands Complex: Chennai,69.5,1713,2,Multiplex,,13.05656,80.26497,2846,69.5,2,69.5,"BookMyShow, MediaAnt",
-city,theatre_name,average_ticket_price,total_seats,no_screens,type,theatre_chain,lat,lon,calculated_seats,calculated_ticket_prices,calculated_screens,average_2,source_of_information,notes
 Delhi,"7D Mastiii: TDI Mall, Rajouri Garden, Delhi",170,18,1,Single Screen,,28.65083,77.12087,90,170,5,170,BookMyShow,
 Delhi,Abhishek Cineplex: Chandni Chowk,96.46666667,260,1,Single Screen,,28.65628,77.2342,260,85,1,96.46666667,BookMyShow,
 Delhi,Amba Cinema: Delhi,128,486,1,Single Screen,,28.67724,77.20104,486,128,1,128,BookMyShow,
